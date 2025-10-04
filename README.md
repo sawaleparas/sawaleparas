@@ -1,7 +1,7 @@
 <h1 align="center">Hey there, I'm Paras 👋</h1>
 
 <p align="center">
-  🚀 Tech Explorer • 💡 AI & Blockchain Enthusiast • 🎯 Mission-Driven
+  🚀 Tech Explorer • 💡 AI & Java Backend Developer • 🎯 Mission-Driven
 </p>
 
 ---
@@ -13,7 +13,7 @@
 - 💻 Skilled in **Python, C++, Java, SQL**
 - 🤖 Passionate about **AI, Machine Learning, and Automation**
 - 🛠️ Learning **Selenium, Power BI, Java QA, and Git**
-- 🌱 Currently working on **AI Voice Assistant & Blockchain Tender System**
+- 🌱 Currently working on **AI Voice Assistant & Java multi - microservices system**
 
 ---
 
