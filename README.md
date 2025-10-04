@@ -9,10 +9,10 @@
 ### 🧠 About Me
 
 - 🎓 B.Tech IT | CGPA: 9.67
-- 📚 GATE Aspirant | Open Source Contributor
+- 📚 CAT Aspirant | Learning 
 - 💻 Skilled in **Python, C++, Java, SQL**
 - 🤖 Passionate about **AI, Machine Learning, and Automation**
-- 🛠️ Learning **Selenium, Power BI, Java QA, and Git**
+- 🛠️ Learning **Jenkins, Power BI, Java Core, and SpringBoot**
 - 🌱 Currently working on **AI Voice Assistant & Java multi - microservices system**
 
 ---
@@ -20,10 +20,10 @@
 ### 🧰 Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
-![C++](https://img.shields.io/badge/-C++-333?style=flat&logo=c%2B%2B)
+![SpringBoot](https://img.shields.io/badge/-Springboot-333?style=flat&logo=Springboot)
 ![Java](https://img.shields.io/badge/-Java-333?style=flat&logo=java)
 ![MySQL](https://img.shields.io/badge/-MySQL-333?style=flat&logo=mysql)
-![Power BI](https://img.shields.io/badge/-Power%20BI-333?style=flat&logo=power-bi)
+![AI](https://img.shields.io/badge/-AI%20BI-333?style=flat&logo=AI)
 ![Selenium](https://img.shields.io/badge/-Selenium-333?style=flat&logo=selenium)
 ![GitHub](https://img.shields.io/badge/-GitHub-333?style=flat&logo=github)
 
